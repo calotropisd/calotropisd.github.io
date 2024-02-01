@@ -1,3 +1,0 @@
-# calotropisd.github.io
-theme: jekyll-theme-minimal
-personal website - update as you go...
