@@ -1,2 +1,3 @@
 # calotropisd.github.io
-personal website - update as you go
+theme: jekyll-theme-minimal
+personal website - update as you go...
